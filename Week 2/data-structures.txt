@@ -1,0 +1,7 @@
+Built-in data structures
+ list
+ dictionary
+ tuple
+ set 
+Mutability- refers to data inside the data structure that can be modified.
+immutable- data structure will not allow modification once the data has been set 
